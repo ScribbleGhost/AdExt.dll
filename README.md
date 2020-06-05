@@ -2,7 +2,9 @@
 
 Download "AdExt.dll"
 
-Place it directly under `C:\ Go to %WinDir%\Microsoft.NET\Framework64\` and open the folder for the latest version you have e.g "v2.0.50727"
+Place it directly under `C:\`
+
+Go to `%WinDir%\Microsoft.NET\Framework64\` and open the folder for the latest version you have e.g "v2.0.50727"
 
 Open CMD in this folder so that InstallUtil.exe can be accessed and run:
 
